@@ -1,6 +1,9 @@
 # graal-vm-native-image-poc
 
-This project explains how `native-image` can be built from a single class Java Application.
+This project explains how `native-image` can be built for a single class Java Application.
+For reference, I am on a **M1 Macbook Pro with an 8 core CPU**(aarch64), and 16 Gigs of Unified Memory. I'm running the 
+`GraalVM Community Edition 22.1.0` for `Java 17`.
+
 
 To start, we `cd` into the src directory.
 ```
